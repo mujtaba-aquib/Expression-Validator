@@ -1,0 +1,45 @@
+/*
+ * File: style.css
+ * Created: Wednesday, 6th January 2021 9:57:11 pm
+ * Author: Aquib Mujtaba (aquib.pust13@gmail.com)
+ * -----
+ * Last Modified: Sunday, 10th January 2021 12:27:33 am
+ * Modified By: Aquib Mujtaba (aquib.pust13@gmail.com)
+ * -----
+ * Copyright (c) 2021 @quib_self
+ */
+.container{
+
+}
+
+nav{
+  margin-top: 100px;
+  margin-right: 28px;
+}
+footer{
+    text-align: left;
+    padding:2px;
+    margin-right: 28px;
+    color:cornsilk;
+    background-color: rgb(53, 104, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.valid{
+    color: cornsilk;
+    background-color: crimson;
+}
+.lead{
+    color: rgb(53, 104, 255);
+    font-weight: 500;
+}
+
+
+.error {
+    color: white;
+    background: lightcoral;
+}
+
+#result p{
+    font-weight: 600;
+}
